@@ -1,6 +1,10 @@
-# EV_2DO_PARCIAL_LMAD
+# Segundo parcial de Escenarios de Videojuegos
 
-Alumno:     Ian Alexandro Solis Cardona
-Matricula:  1669117
+###### Alumno
+Ian Alexandro Solis Cardona
 
-Segundo parcial de Escenarios de Videojuegos
+###### Matricula
+1669117
+
+###### Grupo
+01
